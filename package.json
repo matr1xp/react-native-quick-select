@@ -27,7 +27,9 @@
     "url": "https://github.com/matr1xp/react-native-quick-select/issues"
   },
   "homepage": "https://github.com/matr1xp/react-native-quick-select#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react-native-text-size": "^2.0.4"	
+  },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
     "babel-jest": "^18.0.0",
